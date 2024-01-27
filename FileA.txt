@@ -1,2 +1,3 @@
 This is a FileA
 Made some changes
+Made changes from BranchA
